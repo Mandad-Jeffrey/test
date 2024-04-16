@@ -1,0 +1,66 @@
+{
+  "code": "23_wk29",
+  "name": "SingleShot - e-mail - week 29",
+  "objects": [
+    {
+      "name": "Intro",
+      "language": "NL-NL",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/e4072626d79fe31169cd93e236885f68/4.jpg",
+      "title": "Laura's verhaal",
+      "ctatext": "Beheers jouw bloeddruk",
+      "textunder": "Ik ben Laura en ik heb lange tijd geworsteld met een hoge bloeddruk...",
+      "url": "https://www.dokteronline.com/nl-nl/overige-diensten/hoge-bloeddruk/"
+    },
+    {
+      "name": "Intro",
+      "language": "DE-DE",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/e4072626d79fe31169cd93e236885f68/4.jpg",
+      "title": "Lauras Geschichte",
+      "ctatext": "Kontrollieren Sie Ihren Blutdruck",
+      "textunder": "Ich bin Laura und kämpfe schon seit langem mit Bluthochdruck...",
+      "url": "https://www.dokteronline.com/de-de/sonstige-dienste/bluthochdruck/"
+    },
+    {
+      "name": "Lijst1",
+      "language": "NL-NL",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/3.jpg",
+      "title": "Hoge bloeddruk onder controle houden",
+      "url": "https://www.dokteronline.com/nl-nl/overige-diensten/hoge-bloeddruk/"
+    },
+    {
+      "name": "Lijst1",
+      "language": "DE-DE",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/3.jpg",
+      "title": "Bluthochdruck unter Kontrolle halten",
+      "url": "https://www.dokteronline.com/de-de/sonstige-dienste/bluthochdruck/"
+    },
+    {
+      "name": "Lijst2",
+      "language": "NL-NL",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/4.jpg",
+      "title": "Cholesterolgehalte verlagen",
+      "url": "https://www.dokteronline.com/nl-nl/overige-diensten/hoog-cholesterol/"
+    },
+    {
+      "name": "Lijst2",
+      "language": "DE-DE",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/4.jpg",
+      "title": "Cholesterinspiegel senken",
+      "url": "https://www.dokteronline.com/de-de/sonstige-dienste/cholesterin/"
+    },
+    {
+      "name": "Lijst3",
+      "language": "NL-NL",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/5.jpg",
+      "title": "Goede nachtrust bevorderen",
+      "url": "https://www.dokteronline.com/nl-nl/slapen/"
+    },
+    {
+      "name": "Lijst3",
+      "language": "DE-DE",
+      "image": "https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/5.jpg",
+      "title": "Guten Schlaf fördern",
+      "url": "https://www.dokteronline.com/de-de/schlafen/"
+    }
+  ]
+}
