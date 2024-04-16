@@ -1,0 +1,84 @@
+<emails>
+  <email>
+    <code>23_wk29</code>
+    <name>SingleShot - e-mail - week 29</name>
+    <objects>
+      <object>
+        <name>Intro</name>
+        <language>NL-NL</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/e4072626d79fe31169cd93e236885f68/4.jpg</image>
+          <title>Laura's verhaal</title>
+          <ctatext>Beheers jouw bloeddruk</ctatext>
+          <textunder>Ik ben Laura en ik heb lange tijd geworsteld met een hoge bloeddruk. Voorheen kon de zomer een uitdaging zijn vanwege de impact van mijn hoge bloeddruk op mijn energieniveau, maar afgelopen zomers heb ik zonder gezondheidsklachten volop van het seizoen kunnen genieten.&lt;br&gt;&lt;br&gt;Ik voelde me vaak moe, had last van hoofdpijn en merkte dat mijn energiepeil laag was. Ik wist dat mijn hoge bloeddruk een belangrijke rol speelde in mijn algehele welzijn en ik besloot actie te ondernemen.&lt;br&gt;&lt;br&gt;Met professioneel advies en behandeling van Dokteronline, kon ik stappen zetten om mijn bloeddruk onder controle te houden. Het resultaat was opmerkelijk. Afgelopen zomer voelde ik me energiek en kon ik volop genieten van buitenactiviteiten.</textunder>
+          <url>https://www.dokteronline.com/nl-nl/overige-diensten/hoge-bloeddruk/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Intro</name>
+        <language>DE-DE</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/e4072626d79fe31169cd93e236885f68/4.jpg</image>
+          <title>Lauras Geschichte</title>
+          <ctatext>Kontrollieren Sie Ihren Blutdruck</ctatext>
+          <textunder>Ich bin Laura und kämpfe schon seit langem mit Bluthochdruck. Früher konnte der Sommer wegen der Auswirkungen meines hohen Blutdrucks auf meine Energie eine Herausforderung sein, aber in den letzten Sommern konnte ich die Zeit ohne gesundheitliche Probleme in vollen Zügen genießen.&lt;br&gt;&lt;br&gt;Ich fühlte mich oft müde, litt unter Kopfschmerzen und bemerkte, dass mein Energieniveau niedrig war. Ich wusste, dass mein Bluthochdruck eine wesentliche Rolle für mein allgemeines Wohlbefinden spielte, und beschloss, etwas zu unternehmen.&lt;br&gt;&lt;br&gt;Mit professioneller Beratung und Behandlung durch Dokteronline konnte ich Maßnahmen zur Kontrolle meines Blutdrucks ergreifen. Das Ergebnis war beeindruckend. Im letzten Sommer fühlte ich mich energiegeladen und konnte die Aktivitäten im Freien voll genießen.</textunder>
+          <url>https://www.dokteronline.com/de-de/sonstige-dienste/bluthochdruck/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst1</name>
+        <language>NL-NL</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/3.jpg</image>
+          <title>Hoge bloeddruk onder controle houden</title>
+          <url>https://www.dokteronline.com/nl-nl/overige-diensten/hoge-bloeddruk/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst1</name>
+        <language>DE-DE</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/3.jpg</image>
+          <title>Bluthochdruck unter Kontrolle halten</title>
+          <url>https://www.dokteronline.com/de-de/sonstige-dienste/bluthochdruck/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst2</name>
+        <language>NL-NL</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/4.jpg</image>
+          <title>Cholesterolgehalte verlagen</title>
+          <url>https://www.dokteronline.com/nl-nl/overige-diensten/hoog-cholesterol/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst2</name>
+        <language>DE-DE</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/4.jpg</image>
+          <title>Cholesterinspiegel senken</title>
+          <url>https://www.dokteronline.com/de-de/sonstige-dienste/cholesterin/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst3</name>
+        <language>NL-NL</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/5.jpg</image>
+          <title>Goede nachtrust bevorderen</title>
+          <url>https://www.dokteronline.com/nl-nl/slapen/</url>
+        </fields>
+      </object>
+      <object>
+        <name>Lijst3</name>
+        <language>DE-DE</language>
+        <fields>
+          <image>https://cdn.msdp1.com/public/Matchvertise/45ffefe1c8f0360cdd514d6ae81bc6b0/5.jpg</image>
+          <title>Guten Schlaf fördern</title>
+          <url>https://www.dokteronline.com/de-de/schlafen/</url>
+        </fields>
+      </object>
+    </objects>
+  </email>
+</emails>
